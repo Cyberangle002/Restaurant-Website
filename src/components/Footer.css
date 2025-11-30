@@ -1,0 +1,30 @@
+.footer {
+  background: #fff7ed;
+  margin-top: 3rem;
+  padding: 2rem 0;
+  border-top: 1px solid rgba(0,0,0,0.05);
+}
+
+.footer-container {
+  width: min(94%, 1200px);
+  margin: auto;
+  text-align: center;
+}
+
+.footer-title {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #f97316;
+}
+
+.footer-text {
+  margin: 0.5rem 0 1rem 0;
+  color: #6b7280;
+  font-size: 0.95rem;
+}
+
+.footer-bottom {
+  padding-top: 0.8rem;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
