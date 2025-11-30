@@ -1,16 +1,172 @@
-# React + Vite
+# 🍽️ Restaurant Website  
+A modern, fully responsive restaurant website built using **React.js**, **Tailwind CSS**, **Framer Motion**, and **React Router**.  
+This project includes a Home page, Menu page, About page, Contact form, navbar, footer, and animation effects.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Fully responsive UI  
+- Modern animations using **Framer Motion**  
+- Clean navigation with **React Router**  
+- Fast build using **Vite**  
+- Attractive menu and hero sections  
+- Deployed 24/7 on **Netlify**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📂 Project Structure
+```
+Restaurant-Website/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── main.jsx
+│── package.json
+│── vite.config.js
+│── tailwind.config.js
+│── README.md
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **React.js**
+- **Vite**
+- **Tailwind CSS**
+- **Framer Motion**
+- **React Router DOM**
+- **Netlify**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Installation & Setup
+Run these commands:
+
+```bash
+npm install
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 🌐 Deployment (Netlify)
+The website is deployed on **Netlify** and stays live 24×7.
+
+To deploy manually:
+1. Run `npm run build`
+2. Upload the **dist/** folder to Netlify
+3. Select framework: **Vite**
+4. Set build command: `npm run build`
+5. Publish directory: `dist`
+
+---
+
+## 👩‍💻 Developer  
+**Aditi Pandit**  
+Frontend Developer | React | Tailwind | JavaScript  
+GitHub: https://github.com/Cyberangle002  
+LinkedIn: https://www.linkedin.com/in/aditipandit002/
+
+---
+
+## ⭐ Contribute  
+Pull requests are welcome. For major changes, please open an issue first.
+
+---
+
+## 📜 License  
+This project is open-source and free to use.
+# 🍽️ Restaurant Website  
+A modern, fully responsive restaurant website built using **React.js**, **Tailwind CSS**, **Framer Motion**, and **React Router**.  
+This project includes a Home page, Menu page, About page, Contact form, navbar, footer, and animation effects.
+
+---
+
+## 🚀 Features
+- Fully responsive UI  
+- Modern animations using **Framer Motion**  
+- Clean navigation with **React Router**  
+- Fast build using **Vite**  
+- Attractive menu and hero sections  
+- Deployed 24/7 on **Netlify**
+
+---
+
+## 📂 Project Structure
+```
+Restaurant-Website/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── main.jsx
+│── package.json
+│── vite.config.js
+│── tailwind.config.js
+│── README.md
+```
+
+---
+
+## 🛠️ Tech Stack
+- **React.js**
+- **Vite**
+- **Tailwind CSS**
+- **Framer Motion**
+- **React Router DOM**
+- **Netlify**
+
+---
+
+## 📦 Installation & Setup
+Run these commands:
+
+```bash
+npm install
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 🌐 Deployment (Netlify)
+The website is deployed on **Netlify** and stays live 24×7.
+
+To deploy manually:
+1. Run `npm run build`
+2. Upload the **dist/** folder to Netlify
+3. Select framework: **Vite**
+4. Set build command: `npm run build`
+5. Publish directory: `dist`
+
+---
+
+## 👩‍💻 Developer  
+**Aditi Pandit**  
+Frontend Developer | React | Tailwind | JavaScript  
+GitHub: https://github.com/Cyberangle002  
+LinkedIn: https://www.linkedin.com/in/aditipandit002/
+
+---
+
+## ⭐ Contribute  
+Pull requests are welcome. For major changes, please open an issue first.
+
+---
+
+## 📜 License  
+This project is open-source and free to use.
